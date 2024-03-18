@@ -51,10 +51,10 @@ const Contact = () => {
                     <div className="work-section max-w-[90%] relative mx-auto py-[10%] pr-[5%];">
                         <div className="content block text-accent text-left">
                             <div className="header-container overflow-hidden mb-[2vh] pt-[5%]">
-                            <div data-aos="fade-left" className="header-item text-shadow-lg text-8xl">Contact</div>
+                            <div data-aos="fade-left" className="header-item text-shadow-lg text-8xl max-sm:text-4xl">Contact</div>
                                 <div className="flex flex-wrap pt-[2%]">
                                     <div className="mb-10 w-full shrink-0 grow-0 basis-auto md:mb-0 md:w-6/12 md:px-3 lg:px-6">
-                                        <h2 className="mb-6 text-3xl font-bold">Hello!</h2>
+                                        <h2 className="mb-6 text-3xl max-sm:text-2xl font-bold">Hello!</h2>
                                         <p className="mb-6 text-neutral-500 dark:text-neutral-300">
                                             If you're looking for an opportunity to foster mutual growth, feel free to reach out.
                                         </p>
