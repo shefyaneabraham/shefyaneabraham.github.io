@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d6e8f84.css",
+    "main.js": "/static/js/main.21959115.js",
+    "static/media/project-manage.png": "/static/media/project-manage.77d9facb22a381762909.png",
+    "static/media/iot-img.png": "/static/media/iot-img.2ecc4936fdc30159bf18.png",
+    "static/media/song.png": "/static/media/song.59ade3f6a3ae1f60731f.png",
+    "static/media/social-media-img.png": "/static/media/social-media-img.d22cec2e24eb9b3b9298.png",
+    "static/media/heroImage.PNG": "/static/media/heroImage.6db799c0d7bcc02254d4.PNG",
+    "static/media/node-course.pdf": "/static/media/node-course.95517294ceffe340a5de.pdf",
+    "static/media/spring-course.pdf": "/static/media/spring-course.87d5985ad5ae11ca008b.pdf",
+    "static/media/react-course.pdf": "/static/media/react-course.d017988e203486ddd743.pdf",
+    "static/media/cuda-course.pdf": "/static/media/cuda-course.6fccce4731fb25ae12bc.pdf",
+    "static/media/hiperlearn-img.png": "/static/media/hiperlearn-img.d3e6a7570106f8ca8a02.png",
+    "static/media/portfolio.png": "/static/media/portfolio.25206612cc9adfb99992.png",
+    "static/media/profile1-img.jpeg": "/static/media/profile1-img.9586d9a3a9f99a1784e7.jpeg",
+    "static/media/weather-img.png": "/static/media/weather-img.c6afc43935077ef20ff0.png",
+    "static/media/spatial-course.pdf": "/static/media/spatial-course.76a6aa99a11798cda96e.pdf",
+    "static/media/neo4j-img.png": "/static/media/neo4j-img.eb0bad13323be5c43319.png",
+    "static/media/certificate.png": "/static/media/certificate.8870fd3bd06b4a7e6964.png",
+    "index.html": "/index.html",
+    "main.3d6e8f84.css.map": "/static/css/main.3d6e8f84.css.map",
+    "main.21959115.js.map": "/static/js/main.21959115.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d6e8f84.css",
+    "static/js/main.21959115.js"
+  ]
+}
