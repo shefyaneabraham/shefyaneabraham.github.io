@@ -2,6 +2,7 @@
   "name": "know-shefy",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://shefyaneabraham.github.io/",
   "dependencies": {
     "@emailjs/browser": "^4.2.0",
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
@@ -12,6 +13,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "aos": "^2.3.4",
+    "gh-pages": "^6.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.22.2",
