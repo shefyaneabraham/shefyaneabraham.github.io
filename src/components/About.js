@@ -15,9 +15,10 @@ const About = () => {
                                 <div data-aos="fade-left" className="header-item text-shadow-lgS text-8xl max-sm:text-6xl">ABOUT</div>
                                 <p>
                                     <span className="description max-w-[75%] block font-normal text-3xl pb-[2%] max-sm:pb-[4%] leading-[1.9em] max-sm:text-xl">Hi, I'm Shefy. A Software Developer based in Toronto, Canada.</span>
-                                    <div className="mb-2"> I'm a problem solver, a creative thinker, and a versatile technophile.</div>
-                                    <div className="mb-2">I’ve always sought out opportunities and challenges that are meaningful to me. Therefore, I’ve had the privilege of working at a huge corporation, a start-up, as well as a customer engagement software company.</div>
-                                    <div className="mb-2">I have experience developing multiple SaaS solutions both from scratch and by customizing existing platforms. Currently, I'm working as a Software Developer at Khoros.</div>
+                                    <div className="mb-2"> Back in 2012, my journey into coding began when my brother introduced me to the world of programming during my school days—a world that instantly captivated me. Fast-forward to today, I have had the opportunity to build applications for both large corporations and startups.</div>
+                                    <div className="mb-2">In this ever-evolving landscape of technology, I've learned that success isn't just about technical proficiency—it's about passion, creativity, and a relentless pursuit of excellence. With every line of code, every late-night debugging session, I'm driven by a sense of purpose and a desire to push the boundaries of what's possible.</div>
+                                    <div className="mb-2">As I continue to write the next chapters of my story, I'm reminded of the countless opportunities and challenges that lie ahead. But amidst the uncertainty, one thing remains clear: I am a problem solver, a creative thinker, and a versatile technophile. And with each new project, I'm committed to leaving my mark on the world, one line of code at a time.</div>
+                                    <div className="mb-2">When I’m not at the computer, you'll often find me exploring new destinations, experimenting in the kitchen, immersing myself in a good book, or enjoying a captivating movie.</div>
 
 
                                 </p>
