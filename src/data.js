@@ -28,7 +28,7 @@ export const experienceData =[
 		company: "Khoros",
 		title: "Software Engineer",
 		link:"https://khoros.com/",
-		description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+		description: "Contributed my skills and knowledge as a Full Stack Software Engineer, to drive the growth and success of our groundbreaking product, Flow. Flow is the leading visual bot platform, empowering businesses to design, create, and train custom chatbots and virtual assistants.",
 		technology:["Node.js", "React.js","Redux.js","Express.js","MongoDB","AWS","Redis","Kafka","Tailwind CSS","Webservices","JavaScript","Continuous Integration and Continuous Delivery (CI/CD)"]
 	},
 	{
@@ -36,7 +36,7 @@ export const experienceData =[
 		company: "Kognoz Consulting",
 		title: "Software Engineer",
 		link:"https://kognozconsulting.com/",
-		description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+		description: "Full stack developer (MERN) involved in developing a microlearning platform for businessess to train their talent with curated learing paths.",
 		technology:["Node.js", "React.js","Redux.js","Express.js","SQL","Azure","REST API","Webservices","JavaScript"]
 	},
 	{
@@ -44,7 +44,7 @@ export const experienceData =[
 		company: "Reliance Industries Limited",
 		title: "Full Stack Intern ",
 		link: "https://www.ril.com/",
-		description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+		description: "Developed a Project Management Application from scratch as a Fullstack developer using Node.js + Express.js for API development and Angular for front end. Developed various microservices using Java Spring Boot + Hibernate for an in‑house tool to automate the Software Development Lifecycle.",
 		technology:["Node.js", "Angular","Java","Spring","Express.js","MongoDB","Microservices","Continuous Integration and Continuous Delivery (CI/CD)","JavaScript"]
 	}
 ] 

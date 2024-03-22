@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3d6e8f84.css",
-    "main.js": "/static/js/main.ca554b14.js",
+    "main.css": "/static/css/main.7b287268.css",
+    "main.js": "/static/js/main.1945d14a.js",
     "static/media/project-manage.png": "/static/media/project-manage.77d9facb22a381762909.png",
     "static/media/iot-img.png": "/static/media/iot-img.2ecc4936fdc30159bf18.png",
     "static/media/song.png": "/static/media/song.59ade3f6a3ae1f60731f.png",
@@ -19,11 +19,11 @@
     "static/media/neo4j-img.png": "/static/media/neo4j-img.eb0bad13323be5c43319.png",
     "static/media/certificate.png": "/static/media/certificate.8870fd3bd06b4a7e6964.png",
     "index.html": "/index.html",
-    "main.3d6e8f84.css.map": "/static/css/main.3d6e8f84.css.map",
-    "main.ca554b14.js.map": "/static/js/main.ca554b14.js.map"
+    "main.7b287268.css.map": "/static/css/main.7b287268.css.map",
+    "main.1945d14a.js.map": "/static/js/main.1945d14a.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d6e8f84.css",
-    "static/js/main.ca554b14.js"
+    "static/css/main.7b287268.css",
+    "static/js/main.1945d14a.js"
   ]
 }

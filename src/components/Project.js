@@ -16,7 +16,7 @@ const Project = () => {
                                 <div data-aos="fade-left" className="header-item text-shadow-lgS text-8xl max-sm:text-4xl">PROJECTS</div>
                                 <div className="gap-4 columns-3 pt-[2%] max-sm:gap-2 max-sm:columns-1">
                                     <div className="grid gap-4 max-sm:gap-2">
-                                        <a href ="https://google.com" target="_blank" className="group block relative cursor-pointer overflow-hidden rounded-md">
+                                        <a href ="https://shefyaneabraham.github.io" target="_blank" className="group block relative cursor-pointer overflow-hidden rounded-md">
                                             <img className="blur-none group-hover:blur-sm"src={require(`../assets/portfolio/portfolio.png`)} />
                                             <div className="absolute inset-0 opacity-0 transition duration-300 group-hover:opacity-100">
                                                 <div className="pointer-events-none absolute inset-0 bg-black opacity-30"></div>
@@ -26,7 +26,7 @@ const Project = () => {
                                                 </div>
                                             </div>
                                         </a>
-                                        <a href ="https://google.com" target="_blank" className="group block relative cursor-pointer overflow-hidden rounded-md">
+                                        <a href ="" target="_blank" className="group block relative cursor-pointer overflow-hidden rounded-md">
                                             <img className="blur-none group-hover:blur-sm" src={require(`../assets/portfolio/hiperlearn-img.png`)} />
                                             <div className="absolute inset-0 opacity-0 transition duration-300 group-hover:opacity-100">
                                                 <div className="pointer-events-none absolute inset-0 bg-black opacity-30"></div>
@@ -36,7 +36,7 @@ const Project = () => {
                                                 </div>
                                             </div>
                                         </a>
-                                        <a href ="https://google.com" target="_blank" className="group block relative cursor-pointer overflow-hidden rounded-md">
+                                        <a href ="" target="_blank" className="group block relative cursor-pointer overflow-hidden rounded-md">
                                             <img className="blur-none group-hover:blur-sm" src={require(`../assets/portfolio/song.png`)} />
                                             <div className="absolute inset-0 opacity-0 transition duration-300 group-hover:opacity-100">
                                                 <div className="pointer-events-none absolute inset-0 bg-black opacity-30"></div>
@@ -48,7 +48,7 @@ const Project = () => {
                                         </a>
                                     </div>
                                     <div className="grid gap-4 max-sm:gap-2">
-                                        <a href ="https://google.com" target="_blank" className="group block relative cursor-pointer overflow-hidden rounded-md">
+                                        <a href ="" target="_blank" className="group block relative cursor-pointer overflow-hidden rounded-md">
                                             <img className="blur-none group-hover:blur-sm" src={require(`../assets/portfolio/weather-img.png`)} />
                                             <div className="absolute inset-0 opacity-0 transition duration-300 group-hover:opacity-100">
                                                 <div className="pointer-events-none absolute inset-0 bg-black opacity-30"></div>
@@ -58,7 +58,7 @@ const Project = () => {
                                                 </div>
                                             </div>
                                         </a>
-                                        <a href ="https://google.com" target="_blank" className="group block relative cursor-pointer overflow-hidden rounded-md">
+                                        <a href ="" target="_blank" className="group block relative cursor-pointer overflow-hidden rounded-md">
                                             <img className="blur-none group-hover:blur-sm" src={require(`../assets/portfolio/neo4j-img.png`)} />
                                             <div className="absolute inset-0 opacity-0 transition duration-300 group-hover:opacity-100">
                                                 <div className="pointer-events-none absolute inset-0 bg-black opacity-30"></div>
@@ -68,7 +68,7 @@ const Project = () => {
                                                 </div>
                                             </div>
                                         </a>
-                                        <a href ="https://google.com" target="_blank" className="group block relative cursor-pointer overflow-hidden rounded-md">
+                                        <a href ="" target="_blank" className="group block relative cursor-pointer overflow-hidden rounded-md">
                                             <img className="blur-none group-hover:blur-sm" src={require(`../assets/portfolio/iot-img.png`)} />
                                             <div className="absolute inset-0 opacity-0 transition duration-300 group-hover:opacity-100">
                                                 <div className="pointer-events-none absolute inset-0 bg-black opacity-30"></div>
@@ -81,7 +81,7 @@ const Project = () => {
 
                                     </div>
                                     <div className="grid gap-4 max-sm:gap-2">
-                                        <a href ="https://google.com" target="_blank" className="group block relative cursor-pointer overflow-hidden rounded-md">
+                                        <a href ="" target="_blank" className="group block relative cursor-pointer overflow-hidden rounded-md">
                                             <img className="blur-none group-hover:blur-sm" src={require(`../assets/portfolio/social-media-img.png`)} />
                                             <div className="absolute inset-0 opacity-0 transition duration-300 group-hover:opacity-100">
                                                 <div className="pointer-events-none absolute inset-0 bg-black opacity-30"></div>
@@ -91,7 +91,7 @@ const Project = () => {
                                                 </div>
                                             </div>
                                         </a>
-                                        <a href ="https://google.com" target="_blank" className="group block relative cursor-pointer overflow-hidden rounded-md">
+                                        <a href ="" target="_blank" className="group block relative cursor-pointer overflow-hidden rounded-md">
                                             <img className="blur-none group-hover:blur-sm" src={require(`../assets/portfolio/project-manage.png`)}  />
                                             <div className="absolute inset-0 opacity-0 transition duration-300 group-hover:opacity-100">
                                                 <div className="pointer-events-none absolute inset-0 bg-black opacity-30"></div>
