@@ -1,10 +1,6 @@
 import React from "react";
 import { Link } from 'react-router-dom';
-import myImg from '../assets/heroImage.PNG'
-// import NavigationLeft from './NavigationLeft';
 import Navigation from './Navigation';
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { faLocationDot } from "@fortawesome/free-solid-svg-icons"
 const Main = () => {
     return (
         <div data-aos="fade-down" className="relative block z-40 box-border">
@@ -27,7 +23,7 @@ const Main = () => {
                 </div>
                 <div className="section-right w-[65%] text-accent h-[90vh] float-right gap-x-4 gap-y-4 text-center flex-col justify-center items-center flex relative pt-[5vh] left-auto right-[0%] inset-y-[0%] max-sm:pt-[50%] max-sm:w-full max-sm:h-auto max-sm:flex">
                     <nav className="nav text-left pl-[6%] pt-[10%]">
-                        <div className="items block nav-font font-normal text-9xl max-sm:text-6xl">
+                        <div className="items block nav-font font-normal italic text-9xl max-sm:text-6xl">
                             <div className="item transition duration-150 ease-in-out hover:scale-110 text-shadow-lg">
                                 <Link to="/about">ABOUT</Link>
                             </div>
