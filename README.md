@@ -1,1 +1,3 @@
-Portfolio project version 2 WIP
+# Shefy's Portfolio [React Project]
+
+![](./src/assets/portfolio/portfolio.png)
